@@ -1,3 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862](https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862)" alt="Coding Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8"
+       alt="MarioCoder Retro Gaming Banner"
+       width="100%">
 </p>
